@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Todo</string>
+    <string name="developed_by_md_asif_iqbal">Developed by Md Asif Iqbal</string>
+    <string name="todo">Todo</string>
+    <string name="tasks">Tasks</string>
+    <string name="add_task">Add Task</string>
+    <string name="save">Save</string>
 </resources>

@@ -11,7 +11,7 @@ Once the app is running, you can perform the following actions:
 
 Add Task: Tap the '+' button to add a new task.
 Update Task: Tap on a task.
-Delete Task: Click red button onthe list item to delete it.
+Delete Task: Click the red button on the list item to delete it.
 
 Technologies Used
 Java
